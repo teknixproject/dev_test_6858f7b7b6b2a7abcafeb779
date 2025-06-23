@@ -20,4 +20,5 @@ export const components = {
   LoginForm: dynamic(() => import('./LoginForm')),
   ListDrivers: dynamic(() => import('./ListDrivers')),
   VehicleHeader: dynamic(() => import("./VehicleHeader")),
+  VehicalFilter: dynamic(() => import("./VehicalFilter")),
 };
